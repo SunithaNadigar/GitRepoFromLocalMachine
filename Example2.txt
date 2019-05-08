@@ -1,0 +1,2 @@
+Welcome to Git
+Pushing Repository from loacl m/c to git hub
